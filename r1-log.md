@@ -15,6 +15,6 @@ Finished basic HTML & HTML5
 
 ### R1D3
 Continued to work through the responsive web design module at FreeCodeCamp
-Began basic CSS
+Completed basic CSS...moving on to Applied Visual Design
 
 
