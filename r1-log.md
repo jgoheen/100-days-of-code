@@ -11,3 +11,9 @@ Reviewed some of the Responsive Web Design modules at FreeCodeCamp
 
 ### R1D2
 Continued to work through the responsive web design module at FreeCodeCamp
+Finished basic HTML & HTML5
+
+### R1D3
+
+
+
