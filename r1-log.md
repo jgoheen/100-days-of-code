@@ -21,7 +21,7 @@ Completed basic CSS...moving on to Applied Visual Design
 Continued to work through the responsive web design module at FreeCodeCamp
 Halfway finished with the Applied Visual Design
 
-### R1D4
+### R1D5
 Continued to work through the responsive web design module at FreeCodeCamp
 Finished the Applied Visual Design module
 
