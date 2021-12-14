@@ -25,4 +25,10 @@ Halfway finished with the Applied Visual Design
 Continued to work through the responsive web design module at FreeCodeCamp
 Finished the Applied Visual Design module
 
+### R1D6
+Continued to work through the responsive web design module at FreeCodeCamp
+Finished the Applied Accessability and Responsive Web Design Principles modules and CSS FlexBox
+Started Working on CSS Grid
+
+
 
