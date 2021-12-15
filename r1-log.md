@@ -30,5 +30,7 @@ Continued to work through the responsive web design module at FreeCodeCamp
 Finished the Applied Accessability and Responsive Web Design Principles modules and CSS FlexBox
 Started Working on CSS Grid
 
-
+### R1D7
+Started to build a tribute page https://codepen.io/gheen/pen/JjrEavm
+Also worked on JavaScript Algorithms and Data Structures - Basic JavaScript  1-20
 
