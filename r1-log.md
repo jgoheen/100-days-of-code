@@ -34,3 +34,8 @@ Started Working on CSS Grid
 Started to build a tribute page https://codepen.io/gheen/pen/JjrEavm
 Also worked on JavaScript Algorithms and Data Structures - Basic JavaScript  1-20
 
+### R1D8
+Messed around with CSS Grid on the Stratocaster tribute page https://codepen.io/gheen/pen/JjrEavm
+This is more difficult than I would have thought. Getting good practice
+Also worked on JavaScript Algorithms and Data Structures - Basic JavaScript  21-60
+
