@@ -39,3 +39,6 @@ Messed around with CSS Grid on the Stratocaster tribute page https://codepen.io/
 This is more difficult than I would have thought. Getting good practice
 Also worked on JavaScript Algorithms and Data Structures - Basic JavaScript  21-60
 
+### R1D9
+Continued working through JavaScript Algorithms and Data Structures - Basic JavaScript  61-80
+
