@@ -42,3 +42,11 @@ Also worked on JavaScript Algorithms and Data Structures - Basic JavaScript  21-
 ### R1D9
 Continued working through JavaScript Algorithms and Data Structures - Basic JavaScript  61-80
 
+### R1D10
+Continued working through JavaScript Algorithms and Data Structures - Basic JavaScript  81-104
+
+### R1D11
+Finished JavaScript Algorithms and Data Structures - Basic JavaScript  105-113
+Worked on tribute page.
+
+
