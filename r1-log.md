@@ -48,6 +48,9 @@ Continued working through JavaScript Algorithms and Data Structures - Basic Java
 ### R1D11
 More JavaScript modules at FreeCodeCamp. Array lookup functions and recursion module.
 
+### R1D11
+Finished the basic JavaScript course at FreeCodeCamp. Going back to look at the tribute page.
+
 
 
 
