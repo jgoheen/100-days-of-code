@@ -46,7 +46,8 @@ Continued working through JavaScript Algorithms and Data Structures - Basic Java
 Continued working through JavaScript Algorithms and Data Structures - Basic JavaScript  81-104
 
 ### R1D11
-Finished JavaScript Algorithms and Data Structures - Basic JavaScript  105-113
-Worked on tribute page.
+More JavaScript modules at FreeCodeCamp. Array lookup functions and recursion module.
+
+
 
 
