@@ -51,6 +51,9 @@ More JavaScript modules at FreeCodeCamp. Array lookup functions and recursion mo
 ### R1D11
 Finished the basic JavaScript course at FreeCodeCamp. Going back to look at the tribute page.
 
+### R1D12
+Back to look at the tribute page.
+
 
 
 
