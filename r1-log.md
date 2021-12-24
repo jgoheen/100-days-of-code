@@ -54,6 +54,9 @@ Finished the basic JavaScript course at FreeCodeCamp. Going back to look at the 
 ### R1D12
 Back to look at the tribute page.
 
+### R1D13
+Worked on the tribute page.
+
 
 
 
