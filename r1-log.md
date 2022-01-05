@@ -63,6 +63,8 @@ Worked on the basic survey form.
 ### R1D15
 Worked on the basic survey form.
 
+### R1D16
+Learned about JavaScript arrow functions
 
 
 
