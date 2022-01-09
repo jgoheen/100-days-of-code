@@ -66,6 +66,14 @@ Worked on the basic survey form.
 ### R1D16
 Learned about JavaScript arrow functions
 
+### R1D17
+Learned about destructuring assignment in JavaScript at FreeCodeCamp
+
+### R1D18
+Creating strings using template literals in JavaScript
+
+
+
 
 
 
